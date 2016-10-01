@@ -39,6 +39,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="File\开发任务安排.xls" />
+    <None Include="File\开发备忘录.doc" />
     <None Include="File\数据库开发方案.doc" />
     <None Include="File\石场管理软件概要设计方案.doc" />
   </ItemGroup>
